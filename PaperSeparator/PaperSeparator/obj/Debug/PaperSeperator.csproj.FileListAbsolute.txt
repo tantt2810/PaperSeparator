@@ -1,0 +1,10 @@
+c:\users\tantran\documents\visual studio 2017\Projects\PaperSeperator\PaperSeperator\bin\Debug\PaperSeperator.exe.config
+c:\users\tantran\documents\visual studio 2017\Projects\PaperSeperator\PaperSeperator\bin\Debug\PaperSeperator.exe
+c:\users\tantran\documents\visual studio 2017\Projects\PaperSeperator\PaperSeperator\bin\Debug\PaperSeperator.pdb
+c:\users\tantran\documents\visual studio 2017\Projects\PaperSeperator\PaperSeperator\bin\Debug\Aspose.Words.dll
+c:\users\tantran\documents\visual studio 2017\Projects\PaperSeperator\PaperSeperator\bin\Debug\Newtonsoft.Json.dll
+c:\users\tantran\documents\visual studio 2017\Projects\PaperSeperator\PaperSeperator\bin\Debug\Aspose.Words.xml
+c:\users\tantran\documents\visual studio 2017\Projects\PaperSeperator\PaperSeperator\bin\Debug\Newtonsoft.Json.xml
+c:\users\tantran\documents\visual studio 2017\Projects\PaperSeperator\PaperSeperator\obj\Debug\PaperSeperator.csprojResolveAssemblyReference.cache
+c:\users\tantran\documents\visual studio 2017\Projects\PaperSeperator\PaperSeperator\obj\Debug\PaperSeperator.exe
+c:\users\tantran\documents\visual studio 2017\Projects\PaperSeperator\PaperSeperator\obj\Debug\PaperSeperator.pdb
